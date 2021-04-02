@@ -1,0 +1,8 @@
+In addition to the requirements.txt file, please execute the following commands:
+
+
+pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-3.7.0+cu102.html
+pip install torch-sparse -f https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+pip install torch-cluster -f https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
+pip install torch-geometric
