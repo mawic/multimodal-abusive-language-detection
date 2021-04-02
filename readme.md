@@ -1,6 +1,6 @@
 # About 
 
-This repository is the code for the paper "Explainable Abusive Language Classification Leveraging User and Network Data" submitted to ECML/PKDD 21 (submission 663).
+This repository is the code for the paper **"Explainable Abusive Language Classification Leveraging User and Network Data"** submitted to ECML/PKDD 21 (submission 663).
 
 
 # Project Installation Instructions
