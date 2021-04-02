@@ -1,4 +1,7 @@
-﻿# Accompanying Code for submission 663 to ECML/PKDD 21
+# About 
+
+This repository is the code for the paper "Explainable Abusive Language Classification Leveraging User and Network Data" submitted to ECML/PKDD 21 (submission 663).
+
 
 # Project Installation Instructions
 Set up a conda environment using requirements.txt and following the additional installation-instructions.txt 
@@ -21,6 +24,16 @@ The project root folder mainly divides itself into five parts:
 
 * **dataset parser** for each dataset used to generate the training data, validation data and test data for the 
 
+# Data
+
+Due to Twitter's policy, we are not able to share the enriched datasets that contain the social network data in this repository. Feel free to contact us to get the data for Waseem and for Davidson dataset. To get Wich's dataset, contact the authors directly.
+
+
+* Waseem, Z., & Hovy, D. (2016, June). Hateful symbols or hateful people? predictive features for hate speech detection on twitter. In Proceedings of the NAACL student research workshop (pp. 88-93).
+
+* Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017, May). Automated hate speech detection and the problem of offensive language. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 11, No. 1).
+
+* Wich, M., Breitinger, M., Strathern, W., Naimarevic, M., Groh, G., & Pfeffer, J. (2021). Are your Friends also Haters? Identification of Hater Networks on Social Media: Data Paper. In Companion Proceedings of the Web Conference 2021 (WWW'21 Companion)).
 
 # Model Flow
 
